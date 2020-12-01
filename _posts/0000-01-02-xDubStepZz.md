@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I'm in love with new things! addicted to learning
 Use the left arrow to go back!
